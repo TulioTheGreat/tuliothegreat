@@ -4,7 +4,7 @@
   <a href="https://github.com/tuliothegreat">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tuliothegreat&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuliothegreat&layout=compact&langs_count=7&theme=github_dark"/>
-  <iframe src="https://giphy.com/embed/GERuyQsnilWYN818BA" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pixel-pixelart-clubpenguin-GERuyQsnilWYN818BA">via GIPHY</a></p>
+  <img align="right" alt="Gif-Maneiro" src="https://media.giphy.com/media/GERuyQsnilWYN818BA/giphy.gif"
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Tulio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
