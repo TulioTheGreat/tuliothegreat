@@ -16,7 +16,7 @@
 <div>
   <a href="https://instagram.com/caiafa.borges" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:pedrocaiafaborges@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <img alt="Gif-Maneiro" src="https://cdn.discordapp.com/attachments/765540918051733514/1010582900732874832/giphy.gif"/>
+  <img align="right" alt="Gif-Maneiro" src="https://cdn.discordapp.com/attachments/765540918051733514/1010582900732874832/giphy.gif"/>
   
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
   
