@@ -2,7 +2,7 @@
   
 <div align="left">
   
-  <img height="264px" align="right" alt="Gif-Maneiro" src="https://www.breadandfred.com/wp-content/uploads/2021/10/OldMan-1.gif"/>
+  <img height="264px" align="center" alt="Gif-Maneiro" src="https://www.breadandfred.com/wp-content/uploads/2021/10/OldMan-1.gif"/>
   <a href="https://github.com/tuliothegreat">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=tuliothegreat&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuliothegreat&layout=compact&langs_count=7&theme=github_dark"/>
