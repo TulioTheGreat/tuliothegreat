@@ -1,6 +1,6 @@
 ### Bão? 🤠
   
-<div align="center">
+<div align="left">
   
   <img height="264px" align="right" alt="Gif-Maneiro" src="https://www.breadandfred.com/wp-content/uploads/2021/10/OldMan-1.gif"/>
   <a href="https://github.com/tuliothegreat">
