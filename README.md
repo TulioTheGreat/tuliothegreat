@@ -1,13 +1,14 @@
 # Bão? 🤠
   
-<div>
+<div align="left">
   <a href="https://github.com/tuliothegreat">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tuliothegreat&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuliothegreat&layout=compact&langs_count=7&theme=gruvbox"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tuliothegreat&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuliothegreat&layout=compact&langs_count=7&theme=transparent"/>
 </div>
   
 <div align="left" style="display: inline_block"><br>
    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,svelte,electron" />
+  <img height="50rem" src="https://cdn.discordapp.com/attachments/765540918051733514/1175639680843268178/mona-loading-dark-7701a7b97370.gif?ex=656bf6c6&is=655981c6&hm=3c27e92779620a80caaf6e46505f6882fbe92d5bf122e085d29048a126c6ee6a&"/>
 </div>
 
 ##
