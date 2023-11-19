@@ -1,8 +1,7 @@
 # Bão? 🤠
   
 <div align="left">
-  <a href="https://github.com/tuliothegreat">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tuliothegreat&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tuliothegreat&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&layout=compact"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuliothegreat&layout=compact&langs_count=7&theme=transparent"/>
 </div>
   
