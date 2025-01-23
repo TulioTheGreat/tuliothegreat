@@ -24,11 +24,6 @@
   </div>
   
 ---
-
-### Contact
-
- - 📑 [Linkedin](https://www.linkedin.com/in/pedro-caiafa-borges-ab030b236/)
- - 📫 [Gmail](mailto:pedrocaiafaborges@gmail.com)
   
  <picture>
   <source
